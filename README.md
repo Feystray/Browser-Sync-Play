@@ -62,6 +62,8 @@ It's just a server if you want the clients to be connected. You have to do floow
    });
    ```
 If you pasting it first time, it will not allow you. Type `allow pasting` and press enter. Then you paste this code.
-** Caution: If you are the admin to play the video leave the mode(line 1) as it is. But if you are client change the mode to something else suppose "client". **
+
+***Caution: If you are the admin to play the video leave the mode(line 1) as it is. But if you are client, change the mode to something else suppose "client".***
+
 5. After pressing `Enter` it will ask for the server ip address. Enter the ip address and press sumbit.
 6. After doing it on all the clients. Enjoy watching the video as sync.
